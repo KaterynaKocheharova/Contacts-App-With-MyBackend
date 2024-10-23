@@ -1,0 +1,43 @@
+.list {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+@media screen and (min-width: 768px) {
+  .list {
+    gap: 5rem;
+  }
+}
+
+.home-list {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.row {
+  flex-direction: row;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.icon {
+  stroke: var(--third-color);
+}
+
+.small {
+  width: 20px;
+  height: 20px;
+}
+
+.medium {
+  width: 30px;
+  height: 30px;
+}
+
+.large {
+  width: 90px;
+  height: 90px;
+}

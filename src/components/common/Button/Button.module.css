@@ -1,0 +1,14 @@
+.button {
+  padding: 1rem;
+  border: 1px solid var(--first-color);
+  background-color: var(--second-color);
+  border-radius: var(--main-border-radius);
+  cursor: pointer;
+}
+
+.modal-btn {
+  padding: 10px;
+  border-radius: var(--main-border-radius);
+  border: 1px solid var(--first-color);
+  transition: none;
+}
