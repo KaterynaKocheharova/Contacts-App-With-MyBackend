@@ -11,4 +11,6 @@ Users can:
 * add, update, and delete contacts
 * log out
 
+I will connect this app with my own backend soon.
+
 
